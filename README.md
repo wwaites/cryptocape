@@ -21,7 +21,7 @@ This should simply be done by running make in the dtb
 directory, with system source code installed in the
 usual place, /usr/src/sys:
 
-    make -C dts
+    make -C dtb
 
 The resulting DTB file can then be copied to /boot/dtb.
 It is necessary to instruct the boot loader to use it,
