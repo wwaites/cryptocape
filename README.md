@@ -39,7 +39,5 @@ The main difference from the generic BEAGLEBONE kernel is
 the inclusion of the icee EEPROM driver and the DS3231
 real time clock driver.
 
-## References
-
 [1]: https://cryptotronix.com/products/cryptocape/
 [2]: http://www.ti.com/lit/pdf/spruh73
